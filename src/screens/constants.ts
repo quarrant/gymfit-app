@@ -1,0 +1,2 @@
+export const TABS_SCREEN = 'TABS_SCREEN';
+export const PROFILE_SCREEN = 'PROFILE_SCREEN';
